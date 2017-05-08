@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prospectsof.love" resolutions="1x" timestamp="1494280606507">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prospectsof.love" resolutions="1x" timestamp="1494282614766">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="3780555371" ref="index"/>
@@ -12,7 +12,7 @@
     <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u94-4.png" crc="109459198" ref="index"/>
+    <file name="u94-4.png" crc="3765704371" ref="index"/>
   </folder>
-  <file name="index.html" crc="3879462938" seo="true" mt="1494279839491" redirect="true"/>
+  <file name="index.html" crc="4192712190" seo="true" mt="1494282410014" redirect="true"/>
 </manifest>
