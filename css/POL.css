@@ -266,15 +266,17 @@ margin: 0 auto;
 
   .downarrow {
   position: absolute;
-   top: 90%;
+   top: 95%;
    left: 40%;
    width: 200px;
    height: 100px;
   }
 
 h4{
-  font: "bikini", helvetica, arial;
-  font-size: 2em;
+  font-size: 1.4em;
+  font-family: "helveticaneue", helvetica, arial;
+ font-style: italic;
+  font-weight: lighter;
   color: #ff00ff;
 
 
